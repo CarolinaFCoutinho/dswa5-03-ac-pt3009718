@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/CarolinaFCoutinho/dswa5-02-ac-pt3009718/issues"
   },
-  "homepage": "https://github.com/CarolinaFCoutinho/dswa5-02-ac-pt3009718#readme"
+  "homepage": "https://github.com/CarolinaFCoutinho/dswa5-02-ac-pt3009718#readme",
+  "dependencies": {
+    "body-parser": "1.6",
+    "ejs": "^0.8.8",
+    "express": "^4.17.3",
+    "express-load": "1.1",
+    "method-override": "2.1"
+  }
 }
