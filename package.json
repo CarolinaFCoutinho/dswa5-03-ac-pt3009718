@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CarolinaFCoutinho/dswa5-02-ac-pt3009718.git"
+    "url": "git+https://github.com/CarolinaFCoutinho/dswa5-03-ac-pt3009718.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CarolinaFCoutinho/dswa5-02-ac-pt3009718/issues"
+    "url": "https://github.com/CarolinaFCoutinho/dswa5-03-ac-pt3009718/issues"
   },
-  "homepage": "https://github.com/CarolinaFCoutinho/dswa5-02-ac-pt3009718#readme",
+  "homepage": "https://github.com/CarolinaFCoutinho/dswa5-03-ac-pt3009718#readme",
   "dependencies": {
     "body-parser": "1.6",
     "ejs": "^0.8.8",
