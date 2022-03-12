@@ -1,10 +1,10 @@
 {
   "name": "dswa5-02-ac-pt3009718",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,7 @@
     "express": "^4.17.3",
     "express-load": "1.1",
     "method-override": "2.1"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
